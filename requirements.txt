@@ -6,3 +6,7 @@ seaborn
 shap
 lime
 jupyter
+fastapi
+uvicorn
+pydantic
+joblib
