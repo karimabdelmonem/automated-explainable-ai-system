@@ -4,7 +4,7 @@
 This repository contains an end-to-end Automated Explainable AI (XAI) system designed to predict loan defaults. Beyond just providing a prediction, this project emphasizes **Explainability**, helping users and financial institutions understand the underlying factors and feature importance driving the AI's decision. 
 
 ## 🔗 Links & Resources
-* **Live Web Application:** [DEPI Loan Default XAI Frontend](https://depi-loan-default-xai-frontend.onrender.com/)
+* **Live Web Application:** [Loan Default XAI Website](https://depi-loan-default-xai-frontend.onrender.com/)
 * **Dataset:** [Loan Default Dataset on Kaggle](https://www.kaggle.com/datasets/nikhil1e9/loan-default?hl=en-US)
 
 ## 🗂️ Repository Structure
